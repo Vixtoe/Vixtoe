@@ -1,74 +1,66 @@
 # CHANOUDOM TANN
 ### Final-Year Electrical & Data Engineering Student | Software & AI Engineer
-📍 Pathum Thani, Thailand | 📧 tannchanoudom@gmail.com | 📞 (+66)62-119-5351
+Pathum Thani, Thailand | tannchanoudom@gmail.com | (+66) 062-119-5351
 
 ---
 
-## 🚀 About Me
-* 🎓 **Education:** B.Eng. in Electrical & Data Engineering at Thammasat University (2023 – Present).
-* 💼 **Availability:** Open for full-time internship roles from **January 2027 – May 2027** (5 Months).
-* 💡 **Core Focus:** Machine Learning, Agentic AI, Workflow Automation, Cloud Applications, and Full-Stack Development.
-* 🛠️ **Experience:** Ex-Application Development Intern at **Airports of Thailand (AOT)**.
+**About**
+* Final-year Electrical & Data Engineering student at Thammasat University (2023 – Present).
+* Available for full-time engineering internship roles from January 2027 to May 2027 (5 Months).
+* Technical background spans machine learning, agentic workflow architecture, cloud-native applications, and low-code enterprise automation.
+* Experience as an Application Development Intern at Airports of Thailand PLC (AOT).
 
 ---
 
-## 🛠️ Technical Skills
+**Technical Skills**
 
-**Programming Languages:**
-`Python` `SQL` `C` `Java` `JavaScript` `HTML/CSS`
-
-**AI & Machine Learning:**
-`Agentic Workflows` `LangChain / LangGraph Concepts` `Computer Vision` `Image Segmentation` `Pandas` `NumPy` `Scikit-learn` `Matplotlib`
-
-**Application Development & Automation:**
-`Power Apps` `Power Automate` `Power Fx` `SharePoint`
-
-**Cloud, Database & Developer Tools:**
-`AWS (AWS Amplify)` `Supabase (PostgreSQL)` `Git / GitHub` `Figma` `MATLAB` `Xcode` `Arduino`
-
-**Languages:**
-`Khmer (Native)` `English (Fluent)` `Thai (Conversational)` `German (Beginner)`
+* **Languages:** Python, SQL, C, Java, JavaScript, HTML/CSS
+* **Machine Learning & AI:** Agentic Workflows, LangChain, LangGraph Concepts, Computer Vision, Image Segmentation, Pandas, NumPy, Scikit-learn, Matplotlib
+* **Application & Enterprise Automation:** Power Apps, Power Automate, Power Fx, SharePoint
+* **Cloud & Infrastructure:** AWS (AWS Amplify), Supabase (PostgreSQL), Git, GitHub, Figma, MATLAB, Xcode, Arduino
+* **Spoken Languages:** Khmer (Native), English (Fluent), Thai (Conversational), German (Beginner)
 
 ---
 
-## 💼 Work Experience
+**Work Experience**
 
-**Airports of Thailand Public Company Limited (AOT)** | *Application Development Intern* (June 2025 – July 2025)
-* Developed a centralized Enterprise Architecture Repository using **Power Apps**, **SharePoint**, and **Power Fx** to streamline asset management.
-* Automated reporting and alert notifications with **Power Automate**, building custom dashboards for business workflows.
-
----
-
-## 🔬 Featured Technical & Engineering Projects
-
-* **[Agentic Workflow Prototype (WonderQuest)](https://github.com/Vixtoe/wonderquest)** | `Figma` `GenAI/LLM Concepts`
-  * Designed an AI-assisted learning workflow featuring an AI narrator, contextual hints, and adaptive feedback.
-  * Prototyped LLM-based hint systems that adapt dynamically to user progress.
-
-* **[Seat Together](https://github.com/Vixtoe/seat-together)** | `AWS Amplify` `Supabase` `PostgreSQL` `GitHub`
-  * Engineered a cloud real-time seat management app with multi-zone selection and dynamic state transitions.
-  * Set up AWS Amplify CI/CD pipelines via GitHub integrated with Supabase for real-time data sync.
-
-* **[Relational Game Platform Database (Only Games)](https://github.com/Vixtoe/only-games-db)** | `PostgreSQL` `Supabase` `SQL`
-  * Built a 3NF relational database structure using ER diagrams and foreign keys to manage orders and trade logic.
-  * Wrote complex SQL queries and joins to track user purchases and handle live game access rights.
-
-* **[BMW Global Automotive Sales & Classification Model](https://github.com/Vixtoe/bmw-sales-model)** | `Python` `Pandas` `Scikit-Learn` `Matplotlib`
-  * Cleaned and preprocessed a 50K-row global automotive dataset organizing vehicle, price, and regional data.
-  * Trained ML models to predict sales performance using precision, recall, and accuracy metrics.
-
-* **[IMDb Top 5000 Rating Prediction Model](https://github.com/Vixtoe/imdb-rating-prediction)** | `Python` `Pandas` `Scikit-Learn` `ggplot2`
-  * Extracted features across 5,000+ movies and evaluated Linear, Ridge, and Lasso regression models via cross-validation (achieved 0.21 test MSE).
+**Airports of Thailand Public Company Limited (AOT)** — *Application Development Intern* (June 2025 – July 2025)
+* Built a centralized Enterprise Architecture Repository using Power Apps, SharePoint, and Power Fx to consolidate IT asset tracking.
+* Automated scheduled reporting and conditional alert notifications using Power Automate, integrating customized status dashboards for internal operations.
 
 ---
 
-## 🏆 Achievements & Public Speaking
-* 🏅 **Mathematics Outstanding Students Merit Award**
-* 🎤 **Speaker, International Gathering** — Thammasat School of Engineering
+**Featured Engineering Projects**
+
+* **Agentic Workflow Prototype (WonderQuest)** | *Figma, GenAI/LLM Concepts*
+  * Designed an interactive learning system featuring contextual hint escalation and dynamic user feedback loops.
+  * Structured state management and prompt sequences to adapt hint detailedness based on user progress.
+
+* **Seat Together** | *AWS Amplify, Supabase, PostgreSQL, GitHub*
+  * Built a cloud-backed seat reservation tool supporting real-time multi-zone selection and concurrent state sync.
+  * Configured AWS Amplify deployment pipelines linked to GitHub and integrated Supabase for state management.
+
+* **Relational Game Platform Database (Only Games)** | *PostgreSQL, Supabase, SQL*
+  * Architected a 3NF relational schema with ER modeling and foreign key constraints to track orders, game access rights, and trade operations.
+  * Authored complex SQL joins and view functions to ensure transactional data integrity across live accounts.
+
+* **BMW Global Automotive Sales Classification Model** | *Python, Pandas, Scikit-Learn, Matplotlib*
+  * Cleaned and preprocessed a dataset of 50,000 global automotive sales records.
+  * Trained classification models to evaluate regional buying patterns using precision, recall, and cross-validation metrics.
+
+* **IMDb Top 5000 Rating Prediction Model** | *Python, Pandas, Scikit-Learn, ggplot2*
+  * Extracted feature sets from 5,000+ film records to isolate predictors of audience ratings.
+  * Benchmarked Linear, Ridge, and Lasso regression algorithms, achieving a 0.21 MSE on test evaluation sets with Ridge.
 
 ---
 
-## 📬 Connect With Me
-* 📧 **Email:** [tannchanoudom@gmail.com](mailto:tannchanoudom@gmail.com)
-* 📱 **Phone:** (+66) 062-119-5351
-* 📍 **Location:** Pathum Thani, Thailand
+**Achievements**
+* Mathematics Outstanding Students Merit Award
+* Student Speaker, International Gathering — Thammasat School of Engineering
+
+---
+
+**Contact**
+* Email: tannchanoudom@gmail.com
+* Phone: (+66) 062-119-5351
+* Location: Pathum Thani, Thailand
