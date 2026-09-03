@@ -1,6 +1,6 @@
 # CHANOUDOM TANN
 ### Final-Year Electrical & Data Engineering Student | Software & AI Engineer
-📍 Pathum Thani, Thailand | 📧 tannchanoudom@gmail.com | 📞 062-119-5351
+📍 Pathum Thani, Thailand | 📧 tannchanoudom@gmail.com | 📞 (+66)62-119-5351
 
 ---
 
