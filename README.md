@@ -1,1 +1,2 @@
-CHANOUDOM TANN | Electrical And Data Engineering at Thammasat University | Full Stack / AI Engineer
+# CHANOUDOM TANN
+### Electrical and Data Engineering @ Thammasat University | Full Stack / AI Engineer
