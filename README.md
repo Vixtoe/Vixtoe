@@ -4,7 +4,7 @@ Pathum Thani, Thailand | tannchanoudom@gmail.com | (+66) 062-119-5351
 
 ---
 
-**About**
+**About Me**
 * Final-year Electrical & Data Engineering student at Thammasat University (2023 – Present).
 * Available for full-time engineering internship roles from January 2027 to May 2027 (5 Months).
 * Technical background spans machine learning, agentic workflow architecture, cloud-native applications, and low-code enterprise automation.
