@@ -4,7 +4,7 @@ Pathum Thani, Thailand | tannchanoudom@gmail.com | (+66) 062-119-5351
 
 ---
 
-**About Me**
+**About**
 * Final-year Electrical & Data Engineering student at Thammasat University (2023 – Present).
 * Available for full-time engineering internship roles from January 2027 to May 2027 (5 Months).
 * Technical background spans machine learning, agentic workflow architecture, cloud-native applications, and low-code enterprise automation.
@@ -32,23 +32,23 @@ Pathum Thani, Thailand | tannchanoudom@gmail.com | (+66) 062-119-5351
 
 **Featured Engineering Projects**
 
-* **Agentic Workflow Prototype (WonderQuest)** | *Figma, GenAI/LLM Concepts*
+* **[Agentic Workflow Prototype (WonderQuest)](https://github.com/Vixtoe/wonderquest)** | *Figma, GenAI/LLM Concepts*
   * Designed an interactive learning system featuring contextual hint escalation and dynamic user feedback loops.
   * Structured state management and prompt sequences to adapt hint detailedness based on user progress.
 
-* **Seat Together** | *AWS Amplify, Supabase, PostgreSQL, GitHub*
+* **[Seat Together](https://github.com/Vixtoe/seat-together)** | *AWS Amplify, Supabase, PostgreSQL, GitHub*
   * Built a cloud-backed seat reservation tool supporting real-time multi-zone selection and concurrent state sync.
   * Configured AWS Amplify deployment pipelines linked to GitHub and integrated Supabase for state management.
 
-* **Relational Game Platform Database (Only Games)** | *PostgreSQL, Supabase, SQL*
+* **[Relational Game Platform Database (Only Games)](https://github.com/Vixtoe/only-games-db)** | *PostgreSQL, Supabase, SQL*
   * Architected a 3NF relational schema with ER modeling and foreign key constraints to track orders, game access rights, and trade operations.
   * Authored complex SQL joins and view functions to ensure transactional data integrity across live accounts.
 
-* **BMW Global Automotive Sales Classification Model** | *Python, Pandas, Scikit-Learn, Matplotlib*
+* **[BMW Global Automotive Sales Classification Model](https://github.com/Vixtoe/bmw-sales-model)** | *Python, Pandas, Scikit-Learn, Matplotlib*
   * Cleaned and preprocessed a dataset of 50,000 global automotive sales records.
-  * Trained classification models to evaluate regional buying patterns using precision, recall, and cross-validation metrics.
+  * Trained classification models to evaluate regional buying patterns using precision, recall, and accuracy metrics.
 
-* **IMDb Top 5000 Rating Prediction Model** | *Python, Pandas, Scikit-Learn, ggplot2*
+* **[IMDb Top 5000 Rating Prediction Model](https://github.com/Vixtoe/imdb-rating-prediction)** | *Python, Pandas, Scikit-Learn, ggplot2*
   * Extracted feature sets from 5,000+ film records to isolate predictors of audience ratings.
   * Benchmarked Linear, Ridge, and Lasso regression algorithms, achieving a 0.21 MSE on test evaluation sets with Ridge.
 
