@@ -40,7 +40,7 @@ Pathum Thani, Thailand | tannchanoudom@gmail.com | (+66) 062-119-5351
   * Built a cloud-backed seat reservation tool supporting real-time multi-zone selection and concurrent state sync.
   * Configured AWS Amplify deployment pipelines linked to GitHub and integrated Supabase for state management.
 
-* **[Relational Game Platform Database (Only Games)](https://github.com/Vixtoe/only-games-db)** | *PostgreSQL, Supabase, SQL*
+* **[Relational Game Platform Database (OnlyGames)](https://github.com/Vixtoe/OnlyGames)** | *PostgreSQL, Supabase, SQL*
   * Architected a 3NF relational schema with ER modeling and foreign key constraints to track orders, game access rights, and trade operations.
   * Authored complex SQL joins and view functions to ensure transactional data integrity across live accounts.
 
