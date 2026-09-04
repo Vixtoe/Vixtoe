@@ -36,7 +36,7 @@ Pathum Thani, Thailand | tannchanoudom@gmail.com | (+66) 062-119-5351
   * Designed an interactive learning system featuring contextual hint escalation and dynamic user feedback loops.
   * Structured state management and prompt sequences to adapt hint detailedness based on user progress.
 
-* **[Seat Together](https://github.com/Vixtoe/seat-together)** | *AWS Amplify, Supabase, PostgreSQL, GitHub*
+* **[SeatTogether](https://github.com/Vixtoe/seat-together)** | *AWS Amplify, Supabase, PostgreSQL, GitHub*
   * Built a cloud-backed seat reservation tool supporting real-time multi-zone selection and concurrent state sync.
   * Configured AWS Amplify deployment pipelines linked to GitHub and integrated Supabase for state management.
 
