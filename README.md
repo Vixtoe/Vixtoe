@@ -48,7 +48,7 @@ Pathum Thani, Thailand | tannchanoudom@gmail.com | (+66) 062-119-5351
   * Cleaned and preprocessed a dataset of 50,000 global automotive sales records.
   * Trained classification models to evaluate regional buying patterns using precision, recall, and accuracy metrics.
 
-* **[IMDb Top 5000 Rating Prediction Model](https://github.com/Vixtoe/imdb-rating-prediction)** | *Python, Pandas, Scikit-Learn, ggplot2*
+* **[IMDb Top 5000 Rating Prediction Model](https://github.com/Vixtoe/IMDb-Analysis)** | *Python, Pandas, Scikit-Learn, ggplot2*
   * Extracted feature sets from 5,000+ film records to isolate predictors of audience ratings.
   * Benchmarked Linear, Ridge, and Lasso regression algorithms, achieving a 0.21 MSE on test evaluation sets with Ridge.
 
