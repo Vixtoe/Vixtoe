@@ -44,10 +44,10 @@ Pathum Thani, Thailand | tannchanoudom@gmail.com | (+66) 062-119-5351
   * Architected a 3NF relational schema with ER modeling and foreign key constraints to track orders, game access rights, and trade operations.
   * Authored complex SQL joins and view functions to ensure transactional data integrity across live accounts.
 
-* **[LAPD Crime Density Analytics & Predictive Pipeline](https://github.com/Vixtoe/lapd-crime-pyspark)** | *PySpark, XGBoost, Python, Pandas, Matplotlib, Seaborn*
+* **[LAPD Crime Analytics & Distributed ML Pipeline](https://github.com/Vixtoe/lapd-crime-analytics-pipeline)** | *PySpark, XGBoost, Python, Pandas, Matplotlib, Seaborn*
   * Engineered an end-to-end predictive pipeline analyzing ~1M LAPD crime records to forecast division incident density across 6-hour patrol windows.
   * Conducted EDA to identify and drop ~102k non-physical crime records, resolving artificial 12:00 PM logging spikes; enriched dataset with NOAA weather and federal holiday features.
-  * Implemented leakage-free target encoding and time-based cross-validation (Train 2020–2022 / Test 2023), achieving a test MAE of 6.73 (~22.7% relative error).
+  * Implemented leakage-free target encoding and time-based split validation (Train 2020–2022 / Test 2023), achieving a test MAE of 6.73 (~22.7% relative error).
   * Scaled core feature engineering and model training into distributed PySpark (`xgboost.spark`) for production deployment on enterprise cloud clusters (e.g., Databricks).
 
 * **[IMDb Top 5000 Rating Prediction Model](https://github.com/Vixtoe/IMDb-Analysis)** | *Python, Pandas, Scikit-Learn, ggplot2*
