@@ -31,7 +31,7 @@ Final-Year Electrical & Data Engineering Student at Thammasat School of Engineer
 
 ## Featured Engineering Projects
 
-### [BMW Global Sales & Revenue Intelligence Dashboard](https://github.com/vixtoe)
+### [BMW Global Sales & Revenue Intelligence Dashboard](https://github.com/bmw-global-sales-dashboard)
 `Power BI` | `DAX` | `Python` | `Pandas` | `Data Modeling`
 * Engineered an executive Power BI sales dashboard on 50,000 transaction records to analyze regional revenue performance and powertrain adoption (EV, Hybrid, ICE) across vehicle series.
 * Standardized DAX aggregations to Average Deal Batch Revenue ($380.24M) and built dynamic time slicers for interactive executive reporting.
