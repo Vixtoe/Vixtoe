@@ -18,7 +18,7 @@ Pathum Thani, Thailand | tannchanoudom@gmail.com | (+66) 062-119-5351
 * **Machine Learning & AI:** Agentic Workflows, LangChain, LangGraph Concepts, Computer Vision, Image Segmentation, Pandas, NumPy, Scikit-learn, Matplotlib
 * **Application & Enterprise Automation:** Power Apps, Power Automate, Power Fx, SharePoint
 * **Cloud & Infrastructure:** AWS (AWS Amplify), Supabase (PostgreSQL), Git, GitHub, Figma, MATLAB, Xcode, Arduino
-* **Spoken Languages:** Khmer (Native), English (Fluent), Thai (Conversational), German (Beginner)
+* **Spoken Languages:** German (Beginner - Continue Learning), English (Fluent), Thai (Conversational),Khmer (Native)
 
 ---
 
