@@ -44,9 +44,9 @@ Pathum Thani, Thailand | tannchanoudom@gmail.com | (+66) 062-119-5351
   * Architected a 3NF relational schema with ER modeling and foreign key constraints to track orders, game access rights, and trade operations.
   * Authored complex SQL joins and view functions to ensure transactional data integrity across live accounts.
 
-* **[BMW Global Automotive Sales Classification Model](https://github.com/Vixtoe/bmw-sales-model)** | *Python, Pandas, Scikit-Learn, Matplotlib*
-  * Cleaned and preprocessed a dataset of 50,000 global automotive sales records.
-  * Trained classification models to evaluate regional buying patterns using precision, recall, and accuracy metrics.
+* **[LAPD Crime Density Analytics & Predictive Pipeline](https://github.com/Vixtoe/lapd-crime-pyspark)** | *PySpark, XGBoost, Python, Pandas, Matplotlib*
+  * Developed an end-to-end distributed ML pipeline processing ~1M records to forecast incident volume per LAPD division in 6-hour patrol windows.
+  * Filtered non-physical crime types to eliminate artificial logging spikes and implemented leakage-free temporal target encoding with out-of-time test validation.
 
 * **[IMDb Top 5000 Rating Prediction Model](https://github.com/Vixtoe/IMDb-Analysis)** | *Python, Pandas, Scikit-Learn, ggplot2*
   * Extracted feature sets from 5,000+ film records to isolate predictors of audience ratings.
