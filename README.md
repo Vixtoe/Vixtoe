@@ -31,28 +31,28 @@ Final-Year Electrical & Data Engineering Student at Thammasat School of Engineer
 
 ## Featured Engineering Projects
 
-### BMW Global Sales & Revenue Intelligence Dashboard
+### [BMW Global Sales & Revenue Intelligence Dashboard](https://github.com/vixtoe)
 `Power BI` | `DAX` | `Python` | `Pandas` | `Data Modeling`
 * Engineered an executive Power BI sales dashboard on 50,000 transaction records to analyze regional revenue performance and powertrain adoption (EV, Hybrid, ICE) across vehicle series.
 * Standardized DAX aggregations to Average Deal Batch Revenue ($380.24M) and built dynamic time slicers for interactive executive reporting.
 
 ---
 
-### LAPD Crime Analytics & Distributed Predictive Pipeline
+### [LAPD Crime Analytics & Distributed Predictive Pipeline](https://github.com/Vixtoe/LAPD_Crime_Analytics)
 `PySpark` | `XGBoost` | `Python` | `Pandas` | `Scikit-Learn` | `NOAA API`
 * Engineered a distributed PySpark ETL pipeline processing 1M+ raw records across 21 geographic divisions, eliminating 102K+ invalid entries and generating spatial-temporal features.
 * Developed an XGBoost predictive model integrated with NOAA climate data to forecast incident volumes, achieving a 22.7% MAE on out-of-time test data.
 
 ---
 
-### Agentic AI Learning Engine (WonderQuest)
+### [Agentic AI Learning Engine (WonderQuest)](https://github.com/Vixtoe/wonderquest)
 `Python` | `FastAPI` | `LLM Prompt Engineering` | `Agentic Workflow Design` | `Figma`
 * Designed an AI-driven educational platform prototype integrating generative story narration and adaptive minigames to support childhood learning.
 * Modeled agentic prompt structures and state-based hint escalation logic in Figma user flows to deliver progressive scaffolding based on user attempt history.
 
 ---
 
-### IMDb Top 5000 Rating Prediction Model
+### [IMDb Top 5000 Rating Prediction Model](https://github.com/Vixtoe/IMDb-Analysis)
 `Python` | `Pandas` | `Scikit-Learn` | `ggplot2`
 * Engineered an end-to-end machine learning regression pipeline on 5,000+ movie records, evaluating Linear, Ridge, and Lasso algorithms via cross-validation to optimize rating predictions.
 * Validated model performance using Ridge regression to achieve a 0.21 test Mean Squared Error (MSE), establishing key predictive features for media score forecasting.
