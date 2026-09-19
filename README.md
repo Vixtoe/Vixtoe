@@ -1,68 +1,65 @@
-# CHANOUDOM TANN
-### Final-Year Electrical & Data Engineering Student | Software & AI Engineer
-Pathum Thani, Thailand | tannchanoudom@gmail.com | (+66) 062-119-5351
+# Chanoudom Tann (Victor)
 
----
+Final-Year Electrical & Data Engineering Student at Thammasat School of Engineering, specializing in Data Analytics, Business Intelligence, Big Data Pipelines, and Agentic AI Architecture.
 
-**About**
-* Final-year Electrical & Data Engineering student at Thammasat University (2023 – Present).
-* Available for full-time engineering internship roles from January 2027 to May 2027 (5 Months).
-* Technical background spans machine learning, agentic workflow architecture, cloud-native applications, and low-code enterprise automation.
-* Experience as an Application Development Intern at Airports of Thailand PLC (AOT).
-
----
-
-**Technical Skills**
-
-* **Languages:** Python, SQL, C, Java, JavaScript, HTML/CSS
-* **Machine Learning & AI:** Agentic Workflows, LangChain, LangGraph Concepts, Computer Vision, Image Segmentation, Pandas, NumPy, Scikit-learn, Matplotlib
-* **Application & Enterprise Automation:** Power Apps, Power Automate, Power Fx, SharePoint
-* **Cloud & Infrastructure:** AWS (AWS Amplify), Supabase (PostgreSQL), Git, GitHub, Figma, MATLAB, Xcode, Arduino
-* **Spoken Languages:** German (Beginner - Continue Learning), English (Fluent), Thai (Conversational),Khmer (Native)
-
----
-
-**Work Experience**
-
-**Airports of Thailand Public Company Limited (AOT)** — *Application Development Intern* (June 2025 – July 2025)
-* Built a centralized Enterprise Architecture Repository using Power Apps, SharePoint, and Power Fx to consolidate IT asset tracking.
-* Automated scheduled reporting and conditional alert notifications using Power Automate, integrating customized status dashboards for internal operations.
-
----
-
-**Featured Engineering Projects**
-
-* **[Agentic Workflow Prototype (WonderQuest)](https://github.com/Vixtoe/wonderquest)** | *Figma, GenAI/LLM Concepts*
-  * Designed an interactive learning system featuring contextual hint escalation and dynamic user feedback loops.
-  * Structured state management and prompt sequences to adapt hint detailedness based on user progress.
-
-* **[SeatTogether](https://github.com/Vixtoe/SeatTogether)** | *AWS Amplify, Supabase, PostgreSQL, GitHub*
-  * Built a cloud-backed seat reservation tool supporting real-time multi-zone selection and concurrent state sync.
-  * Configured AWS Amplify deployment pipelines linked to GitHub and integrated Supabase for state management.
-
-* **[Relational Game Platform Database (OnlyGames)](https://github.com/Vixtoe/OnlyGames)** | *PostgreSQL, Supabase, SQL*
-  * Architected a 3NF relational schema with ER modeling and foreign key constraints to track orders, game access rights, and trade operations.
-  * Authored complex SQL joins and view functions to ensure transactional data integrity across live accounts.
-
-* **[LAPD Crime Analytics & Distributed ML Pipeline](https://github.com/Vixtoe/LAPD_Crime_Analytics)** | *PySpark, XGBoost, Python, Pandas, Matplotlib, Seaborn*
-  * Engineered an end-to-end predictive pipeline analyzing ~1M LAPD crime records to forecast division incident density across 6-hour patrol windows.
-  * Conducted EDA to identify and drop ~102k non-physical crime records, resolving artificial 12:00 PM logging spikes; enriched dataset with NOAA weather and federal holiday features.
-  * Implemented leakage-free target encoding and time-based split validation (Train 2020–2022 / Test 2023), achieving a test MAE of 6.73 (~22.7% relative error).
-  * Scaled core feature engineering and model training into distributed PySpark (`xgboost.spark`) for production deployment on enterprise cloud clusters (e.g., Databricks).
-
-* **[IMDb Top 5000 Rating Prediction Model](https://github.com/Vixtoe/IMDb-Analysis)** | *Python, Pandas, Scikit-Learn, ggplot2*
-  * Extracted feature sets from 5,000+ film records to isolate predictors of audience ratings.
-  * Benchmarked Linear, Ridge, and Lasso regression algorithms, achieving a 0.21 MSE on test evaluation sets with Ridge.
-
----
-
-**Achievements**
-* Mathematics Outstanding Students Merit Award
-* Student Speaker, International Gathering — Thammasat School of Engineering
-
----
-
-**Contact**
-* Email: tannchanoudom@gmail.com
-* Phone: (+66) 062-119-5351
+* Degree: B.Eng. Electrical and Data Engineering (Expected Graduation: August 2027)
+* Available For: 6-Month Mandatory Internship / Placement (Pflichtpraktikum, Jan–Jul 2027)
 * Location: Pathum Thani, Thailand
+* Languages: English (Fluent), German (Elementary / A1 — Actively Learning), Khmer (Native), Thai (Conversational)
+* Contact: tannchanoudom@gmail.com | (+66) 062-119-5351
+
+---
+
+## Tech Stack & Core Competencies
+
+* Data Analytics & BI: Power BI (DAX, Data Modeling, Dashboard UI/UX), Business Intelligence, Stakeholder Reporting
+* Data Engineering & Databases: Python, SQL, PySpark, PostgreSQL, ETL Pipelines, Relational Database Design (3NF)
+* AI & Machine Learning: Large Language Models (LLMs), LangChain / LangGraph Concepts, Agentic Workflow Design, Prompt Engineering, Scikit-Learn, Pandas, NumPy
+* Cloud & Developer Tools: Microsoft Azure (Exposure), Databricks (Basic), AWS (Amplify, S3), Supabase, REST APIs (FastAPI), Git/GitHub, Docker (Basic), Figma, MATLAB
+* Enterprise Platforms: Microsoft Power Apps, Power Automate, SharePoint, Jira, Confluence
+
+---
+
+## Work Experience
+
+### Airports of Thailand Public Company Limited (AOT) — Application Development Intern
+*(June 2026 – July 2026 | Bangkok, Thailand)*
+* Engineered structured enterprise data pipelines using Power Apps, SharePoint, and Power Fx to centralize asset management workflows across departments.
+* Automated cross-departmental reporting pipelines and interactive dashboard layouts using Power Automate, integrating live data feeds to eliminate manual report compilation.
+
+---
+
+## Featured Engineering Projects
+
+### BMW Global Sales & Revenue Intelligence Dashboard
+`Power BI` | `DAX` | `Python` | `Pandas` | `Data Modeling`
+* Engineered an executive Power BI sales dashboard on 50,000 transaction records to analyze regional revenue performance and powertrain adoption (EV, Hybrid, ICE) across vehicle series.
+* Standardized DAX aggregations to Average Deal Batch Revenue ($380.24M) and built dynamic time slicers for interactive executive reporting.
+
+---
+
+### LAPD Crime Analytics & Distributed Predictive Pipeline
+`PySpark` | `XGBoost` | `Python` | `Pandas` | `Scikit-Learn` | `NOAA API`
+* Engineered a distributed PySpark ETL pipeline processing 1M+ raw records across 21 geographic divisions, eliminating 102K+ invalid entries and generating spatial-temporal features.
+* Developed an XGBoost predictive model integrated with NOAA climate data to forecast incident volumes, achieving a 22.7% MAE on out-of-time test data.
+
+---
+
+### Agentic AI Learning Engine (WonderQuest)
+`Python` | `FastAPI` | `LLM Prompt Engineering` | `Agentic Workflow Design` | `Figma`
+* Designed an AI-driven educational platform prototype integrating generative story narration and adaptive minigames to support childhood learning.
+* Modeled agentic prompt structures and state-based hint escalation logic in Figma user flows to deliver progressive scaffolding based on user attempt history.
+
+---
+
+### IMDb Top 5000 Rating Prediction Model
+`Python` | `Pandas` | `Scikit-Learn` | `ggplot2`
+* Engineered an end-to-end machine learning regression pipeline on 5,000+ movie records, evaluating Linear, Ridge, and Lasso algorithms via cross-validation to optimize rating predictions.
+* Validated model performance using Ridge regression to achieve a 0.21 test Mean Squared Error (MSE), establishing key predictive features for media score forecasting.
+
+---
+
+## Achievements & Leadership
+
+* Mathematics Outstanding Student Merit Award — Thammasat School of Engineering
+* Keynote Student Speaker, International Gathering (2024) — Delivered technical presentation and engaged with an international academic audience at Thammasat University
