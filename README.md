@@ -3,7 +3,7 @@
 Final-Year Electrical & Data Engineering Student at Thammasat School of Engineering, specializing in Data Analytics, Business Intelligence, Big Data Pipelines, and Agentic AI Architecture.
 
 * Degree: B.Eng. Electrical and Data Engineering (Expected Graduation: August 2027)
-* Available For: 6-Month Mandatory Internship / Placement (Pflichtpraktikum, Jan–Jul 2027)
+* Available For: 6-Month Mandatory Internship / Placement (Pflichtpraktikum, Jan–Jun 2027)
 * Location: Pathum Thani, Thailand
 * Languages: English (Fluent), German (Elementary / A1 — Actively Learning), Khmer (Native), Thai (Conversational)
 * Contact: tannchanoudom@gmail.com | (+66) 062-119-5351
