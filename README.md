@@ -31,18 +31,18 @@ Final-Year Electrical & Data Engineering Student at **Thammasat School of Engine
 
 ## Featured Projects
 
-### [BMW Global Sales & Revenue Intelligence Dashboard](https://github.com/Vixtoe/bmw-global-sales-dashboard)
-`Power BI` | `DAX` | `Python` | `Pandas` | `Data Modeling`
-* Engineered an executive Power BI sales dashboard analyzing 50,000 transaction records to track regional revenue performance and powertrain adoption (EV, Hybrid, ICE) across vehicle series.
-* Standardized DAX aggregations for key business metrics and implemented dynamic time slicers for interactive executive reporting.
-
----
-
 ### [LAPD Crime Analytics & Distributed Predictive Pipeline](https://github.com/Vixtoe/LAPD_Crime_Analytics) | [![Live Dashboard](https://img.shields.io/badge/Live_Dashboard-Launch_App-brightgreen?style=flat-square&logo=dash)](https://lapd-crime-dashboard.onrender.com/)
 `PySpark` | `XGBoost` | `Python` | `Pandas` | `Scikit-Learn` | `Dash / Plotly` | `Render`
 * Engineered a distributed PySpark ETL pipeline processing 1M+ raw records across 21 geographic divisions, filtering 102K+ non-physical entries and engineering spatio-temporal features.
 * Developed an XGBoost regression model achieving a 6.40 MAE (21.59% relative error) on 2023 test data, outperforming baseline models by up to 36.89%.
 * Deployed a production Dash/Plotly web dashboard on Render served via Gunicorn for dynamic spatio-temporal evaluations.
+
+---
+
+### [BMW Global Sales & Revenue Intelligence Dashboard](https://github.com/Vixtoe/bmw-global-sales-dashboard)
+`Power BI` | `DAX` | `Python` | `Pandas` | `Data Modeling`
+* Engineered an executive Power BI sales dashboard analyzing 50,000 transaction records to track regional revenue performance and powertrain adoption (EV, Hybrid, ICE) across vehicle series.
+* Standardized DAX aggregations for key business metrics and implemented dynamic time slicers for interactive executive reporting.
 
 ---
 
