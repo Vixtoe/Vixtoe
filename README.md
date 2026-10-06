@@ -39,35 +39,35 @@ Final-Year Electrical & Data Engineering Student at **Thammasat School of Engine
 
 ---
 
-### [BMW Global Sales & Revenue Intelligence Dashboard](https://github.com/Vixtoe/bmw-global-sales-dashboard)
+### [BMW Global Sales & Revenue Intelligence Dashboard](https://github.com/Vixtoe/bmw-global-sales-dashboard) | [![Power BI](https://img.shields.io/badge/Power_BI-Sales_Analytics-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://github.com/Vixtoe/bmw-global-sales-dashboard)
 `Power BI` | `DAX` | `Python` | `Pandas` | `Data Modeling`
 * Engineered an executive Power BI sales dashboard analyzing 50,000 transaction records to track regional revenue performance and powertrain adoption (EV, Hybrid, ICE) across vehicle series.
 * Standardized DAX aggregations for key business metrics and implemented dynamic time slicers for interactive executive reporting.
 
 ---
 
-### [SeatTogether — Full-Stack Cloud Application](https://github.com/Vixtoe/SeatTogether)
+### [SeatTogether — Full-Stack Cloud Application](https://github.com/Vixtoe/SeatTogether) | [![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-Deployed-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://github.com/Vixtoe/SeatTogether)
 `AWS Amplify` | `Supabase` | `PostgreSQL` | `GitHub Actions` | `CI/CD` | `React`
 * Developed and deployed a full-stack web application hosted on AWS Amplify with automated GitHub CI/CD build pipelines.
 * Integrated Supabase as a real-time PostgreSQL backend to synchronize persistent user seat reservations and dynamic session states.
 
 ---
 
-### [OnlyGames — Digital Game Storefront & Analytics Database](https://github.com/Vixtoe/OnlyGames)
+### [OnlyGames — Digital Game Storefront & Analytics Database](https://github.com/Vixtoe/OnlyGames) | [![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://github.com/Vixtoe/OnlyGames)
 `PostgreSQL` | `Supabase` | `Database Design` | `SQL DDL` | `Relational Modeling (3NF)`
 * Modeled a fully normalized 3NF PostgreSQL database architecture on Supabase spanning 16 core entities for digital video game distribution.
 * Implemented strict table constraints, foreign key cascades, multi-item checkout logic, social friend connections, and peer-to-peer game trade structures.
 
 ---
 
-### [Agentic AI Learning Engine (WonderQuest)](https://github.com/Vixtoe/wonderquest)
+### [Agentic AI Learning Engine (WonderQuest)](https://github.com/Vixtoe/wonderquest) | [![FastAPI](https://img.shields.io/badge/FastAPI-Agentic_AI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/Vixtoe/wonderquest)
 `Python` | `FastAPI` | `LLM Prompt Engineering` | `Agentic Workflow Design` | `Figma`
 * Designed an AI-driven educational platform prototype integrating generative story narration and adaptive minigames to support childhood learning.
 * Modeled agentic prompt structures and state-based hint escalation logic in Figma user flows to deliver progressive scaffolding based on user attempt history.
 
 ---
 
-### [IMDb Top 5000 Rating Prediction Model](https://github.com/Vixtoe/IMDb-Analysis)
+### [IMDb Top 5000 Rating Prediction Model](https://github.com/Vixtoe/IMDb-Analysis) | [![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-ML_Pipeline-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](https://github.com/Vixtoe/IMDb-Analysis)
 `Python` | `Pandas` | `Scikit-Learn` | `ggplot2`
 * Engineered an end-to-end machine learning regression pipeline on 5,000+ movie records, evaluating Linear, Ridge, and Lasso algorithms via cross-validation to optimize rating predictions.
 * Validated model performance using Ridge regression to achieve a 0.21 test Mean Squared Error (MSE), establishing key predictive features for media score forecasting.
