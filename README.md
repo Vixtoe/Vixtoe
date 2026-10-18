@@ -23,7 +23,7 @@ Final-year Electrical and Data Engineering student at the Faculty of Engineering
 
 ## Work Experience
 
-### **Airports of Thailand Public Company Limited (AOT)** — *Application Development Intern*
+### **Airports of Thailand Public Company Limited (AOT)** — *Digital Transformation & Process Automation Intern | June 2026 – July 2026*
 *(June 2026 – July 2026 | Bangkok, Thailand)*
 - Engineered structured enterprise data pipelines using Power Apps, SharePoint, and Power Fx to centralize asset management workflows across departments.
 - Automated cross-departmental reporting pipelines and interactive dashboard layouts using Power Automate, integrating live data feeds to eliminate manual report compilation.
