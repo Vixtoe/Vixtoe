@@ -24,8 +24,9 @@ Final-year Electrical and Data Engineering student at the Faculty of Engineering
 
 ## Work Experience
 
-### **Airports of Thailand Public Company Limited (AOT)** — *Digital Transformation & Process Automation Intern | June 2026 – July 2026*
-*(June 2026 – July 2026 | Bangkok, Thailand)*
+### Airports of Thailand Public Company Limited (AOT)
+**Digital Transformation & Process Automation Intern** · June – July 2026 · Bangkok, Thailand
+
 - Built a Power Apps canvas app on SharePoint Lists for tracking IT systems, including login, add, and edit screens and a KPI dashboard.
 - Set up Power Automate flows for login alerts and a daily 17:30 Outlook activity report.
 
