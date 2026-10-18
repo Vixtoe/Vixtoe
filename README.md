@@ -68,10 +68,10 @@ Final-year Electrical and Data Engineering student at the Faculty of Engineering
 
 ---
 
-### [Agentic AI Learning Engine (WonderQuest)](https://github.com/Vixtoe/wonderquest) | [![FastAPI](https://img.shields.io/badge/FastAPI-Agentic_AI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/Vixtoe/wonderquest)
-`Python` | `FastAPI` | `LLM Prompt Engineering` | `Agentic Workflow Design` | `Figma`
-- Designed an AI-driven educational platform prototype integrating generative story narration and adaptive minigames to support childhood learning.
-- Modeled agentic prompt structures and state-based hint escalation logic in Figma user flows to deliver progressive scaffolding based on user attempt history.
+### [WonderQuest: AI-Narrated Learning Prototype](https://github.com/Vixtoe/wonderquest) | [![Figma](https://img.shields.io/badge/Figma-Prototype-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://github.com/Vixtoe/wonderquest)
+`Figma` | `LLM Prompt Design` | `EdTech` | `HCI`
+- Designed an interactive Figma prototype of an AI-narrated learning app for children aged 8 to 10, covering story, minigame, hint, and reward flows.
+- Designed LLM prompt logic for hints that escalate with each attempt without revealing the answer, and documented the design in the repository README.
 
 ---
 
