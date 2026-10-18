@@ -3,20 +3,21 @@
 Final-Year Electrical & Data Engineering Student at **Thammasat School of Engineering**, specializing in Data Analytics, Business Intelligence, Big Data Pipelines, and Agentic AI Architecture.
 
 - **Degree**: B.Eng. Electrical and Data Engineering (Expected Graduation: August 2027)
-- **Availability**: Seeking 6-Month Mandatory Internship / Placement (*Pflichtpraktikum*, Jan–Jun 2027)
+- **Availability**: Seeking 6-Month Mandatory Internship / Placement (Jan–Jun 2027)
 - **Location**: Pathum Thani, Thailand
-- **Languages**: English (Fluent), Thai (Conversational), Khmer (Native), German (Elementary / A1 — Actively Learning)
+- **Languages**: English (Fluent), Thai (Fluent), Khmer (Native), German (Elementary / A1 — Actively Learning)
 - **Contact**: [tannchanoudom@gmail.com](mailto:tannchanoudom@gmail.com) | (+66) 062-119-5351
 
 ---
 
 ## Technical Stack & Core Competencies
 
-- **Data Analytics & BI**: Power BI (DAX, Data Modeling, Dashboard UI/UX), Business Intelligence, Stakeholder Reporting
-- **Data Engineering & Databases**: Python, SQL, PySpark, PostgreSQL, Supabase, ETL Pipelines, Relational Database Design (3NF)
-- **AI & Machine Learning**: Large Language Models (LLMs), LangChain / LangGraph, Agentic Workflow Design, Prompt Engineering, XGBoost, Scikit-Learn, Pandas, NumPy
-- **Cloud & Developer Tools**: Microsoft Azure, AWS (Amplify, S3), REST APIs (FastAPI), Git/GitHub, CI/CD, Docker, Figma, MATLAB
-- **Enterprise Platforms**: Microsoft Power Apps, Power Automate, SharePoint, Jira, Confluence
+- Data Analytics & BI: Power BI (DAX, data modelling), dashboards, KPI reporting, stakeholder reporting
+- Data Engineering & Databases: Python, SQL, PySpark, PostgreSQL, Supabase, ETL, data validation, 3NF relational design
+- Machine Learning & AI: Pandas, NumPy, scikit-learn, XGBoost, LLM prompt design
+- Cloud & Developer Tools: AWS Amplify, AWS S3, Git/GitHub, Figma, MATLAB
+- Enterprise Platforms: Microsoft Power Apps, Power Automate, SharePoint, Excel
+
 
 ---
 
