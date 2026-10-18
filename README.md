@@ -22,10 +22,10 @@ Final-year Electrical and Data Engineering student at the Faculty of Engineering
 
 ---
 
-## Work Experience
-
 ### Airports of Thailand Public Company Limited (AOT)
+
 ![Internship](https://img.shields.io/badge/Internship-Jun%E2%80%93Jul%202026-4B5563?style=flat-square)
+
 **Digital Transformation & Process Automation Intern** · June – July 2026 · Bangkok, Thailand
 
 - Built a Power Apps canvas app on SharePoint Lists for tracking IT systems, including login, add, and edit screens and a KPI dashboard.
