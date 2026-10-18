@@ -43,9 +43,9 @@ Final-year Electrical and Data Engineering student at the Faculty of Engineering
 
 ### [LAPD Crime Analytics & Predictive Pipeline](https://github.com/Vixtoe/LAPD_Crime_Analytics) | [![Live Dashboard](https://img.shields.io/badge/Live_Dashboard-Launch_App-brightgreen?style=flat-square&logo=dash)](https://lapd-crime-dashboard.onrender.com/)
 `PySpark` | `XGBoost` | `Python` | `Pandas` | `Scikit-Learn` | `Dash / Plotly` | `Render`
-- Engineered a distributed PySpark ETL pipeline processing 1M+ raw records across 21 geographic divisions, filtering 102K+ non-physical entries and engineering spatio-temporal features.
-- Developed an XGBoost regression model achieving a 6.40 MAE (21.59% relative error) on 2023 test data, outperforming baseline models by up to 36.89%.
-- Deployed the model in a Plotly Dash dashboard.
+- Built a PySpark ETL pipeline over 1M+ LAPD crime records, removing 102K+ non-physical incidents for data quality.
+- Trained an XGBoost model with a 6.40 MAE on 2023 test data, 36.89% lower error than the division-mean baseline and 17.21% lower than the prior-year baseline.
+- Deployed the model in a Plotly Dash dashboard hosted on Render.
 
 ---
 
