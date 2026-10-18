@@ -43,13 +43,13 @@ Final-year Electrical and Data Engineering student at the Faculty of Engineering
 `PySpark` | `XGBoost` | `Python` | `Pandas` | `Scikit-Learn` | `Dash / Plotly` | `Render`
 - Engineered a distributed PySpark ETL pipeline processing 1M+ raw records across 21 geographic divisions, filtering 102K+ non-physical entries and engineering spatio-temporal features.
 - Developed an XGBoost regression model achieving a 6.40 MAE (21.59% relative error) on 2023 test data, outperforming baseline models by up to 36.89%.
-- Deployed a production Dash/Plotly web dashboard on Render served via Gunicorn for dynamic spatio-temporal evaluations.
+- Deployed the model in a Plotly Dash dashboard.
 
 ---
 
 ### [BMW Global Sales & Revenue Intelligence Dashboard](https://github.com/Vixtoe/bmw-global-sales-dashboard) | [![Power BI](https://img.shields.io/badge/Power_BI-Sales_Analytics-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://github.com/Vixtoe/bmw-global-sales-dashboard)
 `Power BI` | `DAX` | `Python` | `Pandas` | `Data Modeling`
-- Engineered an executive Power BI sales dashboard analyzing 50,000 transaction records to track regional revenue performance and powertrain adoption (EV, Hybrid, ICE) across vehicle series.
+- Built a Power BI dashboard on 50,000 BMW sales records (2010–2024) with three headline KPIs, DAX measures, and year, region, and powertrain slicers.
 - Standardized DAX aggregations for key business metrics and implemented dynamic time slicers for interactive executive reporting.
 
 ---
@@ -63,7 +63,7 @@ Final-year Electrical and Data Engineering student at the Faculty of Engineering
 
 ### [OnlyGames — Digital Game Storefront & Analytics Database](https://github.com/Vixtoe/OnlyGames) | [![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://github.com/Vixtoe/OnlyGames)
 `PostgreSQL` | `Supabase` | `Database Design` | `SQL DDL` | `Relational Modeling (3NF)`
-- Modeled a fully normalized 3NF PostgreSQL database architecture on Supabase spanning 16 core entities for digital video game distribution.
+- Designed a normalized 3NF PostgreSQL schema on Supabase with 16 tables for digital video game distribution.
 - Implemented strict table constraints, foreign key cascades, multi-item checkout logic, social friend connections, and peer-to-peer game trade structures.
 
 ---
@@ -84,5 +84,5 @@ Final-year Electrical and Data Engineering student at the Faculty of Engineering
 
 ## Achievements & Leadership
 
-- **Mathematics Outstanding Student Merit Award** — Thammasat School of Engineering
+- **Mathematics Outstanding Student Merit Award**
 - **Keynote Student Speaker, International Gathering (2024)** — Delivered technical presentation and engaged with an international academic audience at Thammasat University
