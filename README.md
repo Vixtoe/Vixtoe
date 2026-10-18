@@ -72,7 +72,7 @@ Final-year Electrical and Data Engineering student at the Faculty of Engineering
 
 ### [OnlyGames — Digital Game Storefront & Analytics Database](https://github.com/Vixtoe/OnlyGames) | [![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://github.com/Vixtoe/OnlyGames)
 `PostgreSQL` | `Supabase` | `Database Design` | `SQL DDL` | `Relational Modeling (3NF)`
-- Designed a normalized 3NF PostgreSQL schema on Supabase with 16 tables for digital video game distribution.
+- Designed a normalized 3NF PostgreSQL schema on Supabase with 17 tables for digital video game distribution.
 - Implemented strict table constraints, foreign key cascades, multi-item checkout logic, social friend connections, and peer-to-peer game trade structures.
 
 ---
