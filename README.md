@@ -6,7 +6,7 @@ Final-year Electrical and Data Engineering student at the Faculty of Engineering
 - **Availability**: Seeking 6-Month Mandatory Internship / Placement (Jan–Jun 2027)
 - **Location**: Pathum Thani, Thailand
 - **Languages**: English (Fluent), Thai (Fluent), Khmer (Native), German (Elementary / A1 — Actively Learning)
-- **Contact**: [tannchanoudom@gmail.com](mailto:tannchanoudom@gmail.com) | (+66) 062-119-5351
+- **Contact**: [tannchanoudom@gmail.com](mailto:tannchanoudom@gmail.com) | +66 62 119 5351
 
 ---
 
@@ -25,8 +25,8 @@ Final-year Electrical and Data Engineering student at the Faculty of Engineering
 
 ### **Airports of Thailand Public Company Limited (AOT)** — *Digital Transformation & Process Automation Intern | June 2026 – July 2026*
 *(June 2026 – July 2026 | Bangkok, Thailand)*
-- Engineered structured enterprise data pipelines using Power Apps, SharePoint, and Power Fx to centralize asset management workflows across departments.
-- Automated cross-departmental reporting pipelines and interactive dashboard layouts using Power Automate, integrating live data feeds to eliminate manual report compilation.
+- Built a Power Apps canvas app on SharePoint Lists for tracking IT systems, including login, add, and edit screens and a KPI dashboard.
+- Set up Power Automate flows for login alerts and a daily 17:30 Outlook activity report.
 
 ---
 
@@ -39,7 +39,7 @@ Final-year Electrical and Data Engineering student at the Faculty of Engineering
 
 ---
 
-### [LAPD Crime Analytics & Distributed Predictive Pipeline](https://github.com/Vixtoe/LAPD_Crime_Analytics) | [![Live Dashboard](https://img.shields.io/badge/Live_Dashboard-Launch_App-brightgreen?style=flat-square&logo=dash)](https://lapd-crime-dashboard.onrender.com/)
+### [LAPD Crime Analytics & Predictive Pipeline](https://github.com/Vixtoe/LAPD_Crime_Analytics) | [![Live Dashboard](https://img.shields.io/badge/Live_Dashboard-Launch_App-brightgreen?style=flat-square&logo=dash)](https://lapd-crime-dashboard.onrender.com/)
 `PySpark` | `XGBoost` | `Python` | `Pandas` | `Scikit-Learn` | `Dash / Plotly` | `Render`
 - Engineered a distributed PySpark ETL pipeline processing 1M+ raw records across 21 geographic divisions, filtering 102K+ non-physical entries and engineering spatio-temporal features.
 - Developed an XGBoost regression model achieving a 6.40 MAE (21.59% relative error) on 2023 test data, outperforming baseline models by up to 36.89%.
