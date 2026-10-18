@@ -1,6 +1,6 @@
 # Chanoudom Tann
 
-Final-Year Electrical & Data Engineering Student at **Thammasat School of Engineering**, specializing in Data Analytics, Business Intelligence, Big Data Pipelines, and Agentic AI Architecture.
+Final-year Electrical and Data Engineering student at the Faculty of Engineering, Thammasat University, focusing on data analytics, business intelligence, and data pipelines.
 
 - **Degree**: B.Eng. Electrical and Data Engineering (Expected Graduation: August 2027)
 - **Availability**: Seeking 6-Month Mandatory Internship / Placement (Jan–Jun 2027)
