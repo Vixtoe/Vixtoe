@@ -12,11 +12,25 @@ Final-year Electrical and Data Engineering student at the Faculty of Engineering
 
 ## Technical Stack & Core Competencies
 
-- Data Analytics & BI: Power BI (DAX, data modelling), dashboards, KPI reporting, stakeholder reporting
-- Data Engineering & Databases: Python, SQL, PySpark, PostgreSQL, Supabase, ETL, data validation, 3NF relational design
-- Machine Learning & AI: Pandas, NumPy, scikit-learn, XGBoost, LLM prompt design
-- Cloud & Developer Tools: AWS Amplify, AWS S3, Git/GitHub, Figma, MATLAB
-- Enterprise Platforms: Microsoft Power Apps, Power Automate, SharePoint, Excel
+## Technical Stack & Core Competencies
+
+![Power Apps](https://img.shields.io/badge/Power_Apps-0078D4?style=flat-square&logo=microsoftpowerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
+![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 
 ---
