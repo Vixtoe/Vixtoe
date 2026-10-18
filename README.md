@@ -60,6 +60,8 @@ Final-year Electrical and Data Engineering student at the Faculty of Engineering
 - Built an IAM audit tool on synthetic data that detects offboarding failures, privilege creep, and dormant access.
 - Mined role baselines for RBAC with a 70% coverage threshold and generated an executive Excel audit report.
 
+---
+
 ### [SeatTogether — Full-Stack Cloud Application](https://github.com/Vixtoe/SeatTogether) | [![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-Deployed-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://github.com/Vixtoe/SeatTogether)
 `AWS Amplify` | `Supabase` | `PostgreSQL` | `GitHub Actions` | `CI/CD` | `React`
 - Developed and deployed a full-stack web application hosted on AWS Amplify with automated GitHub CI/CD build pipelines.
